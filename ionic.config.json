@@ -1,0 +1,8 @@
+{
+  "name": "Gary Portal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "85629a51"
+}
